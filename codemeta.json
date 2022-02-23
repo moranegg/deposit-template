@@ -1,0 +1,68 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/AGPL-3.0",
+    "dateCreated": "1953-01-01",
+    "name": "The wonderland App",
+    "version": "0.0.1",
+    "description": "Software for the wonderland team",
+    "releaseNotes": "first beta-test",
+    "keywords": [
+        "wonderland",
+        "peter pan",
+        "fantasy"
+    ],
+    "programmingLanguage": [
+        "Python 3"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Captain",
+            "familyName": "Hook",
+            "email": "c.hook@wonderland.org",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Pirate"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Peter",
+            "familyName": "Pan",
+            "email": "peter.pan@wonderland.org"
+        },
+        {
+            "@type": "Person",
+            "givenName": "Wendy",
+            "familyName": "Darling",
+            "email": "w.darling@wonderland.org"
+        },
+        {
+            "@type": "Person",
+            "givenName": "The Crocodile",
+            "familyName": "Tic Toc",
+            "email": "croco@wonderland.org"
+        }
+    ],
+    "contributor": [
+        {
+            "@type": "Person",
+            "givenName": "John",
+            "familyName": "Darling",
+            "email": "j.darling@wonderland.org"
+        },
+        {
+            "@type": "Person",
+            "givenName": "George",
+            "familyName": "Darling",
+            "email": "g.darling@wonderland.org"
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mary",
+            "familyName": "Darling",
+            "email": "ma.darling@wonderland.org"
+        }
+    ]
+}

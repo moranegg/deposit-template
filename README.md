@@ -1,5 +1,5 @@
 # Repository template for archival
-# Name
+# The wonderland App
 
 Name your project or package, because the repository name isn't enough.
 
