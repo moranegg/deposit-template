@@ -4,11 +4,9 @@
 Name your project or package, because the repository name isn't enough.
 
 ## Badges
+Put a badge like, if it exists, there are many services providing badges that can be helpful.
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17292913.svg)](https://doi.org/10.5281/zenodo.17292913) [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/octocat/Hello-World/)](https://archive.softwareheritage.org/browse/origin/https://github.com/octocat/Hello-World/)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/octocat/Hello-World/)](https://archive.softwareheritage.org/browse/origin/https://github.com/octocat/Hello-World/)
-
-There are many services providing badges that can be helpful.
 
 ## Description
 
