@@ -4,7 +4,7 @@
 Name your project or package, because the repository name isn't enough.
 
 ## Badges
-Put a badge like these if they exists, there are many services providing badges that can be helpful.
+Put a badges like these if they exists, there are many services providing badges that can be helpful.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17118038.svg)](https://doi.org/10.5281/zenodo.17118038) 
 
